@@ -9,6 +9,7 @@ public class FirstClass {
 		// Here is conflict my remote master branch 
 
 		// I am doing changes from master branch
+		// Here is another conflicting line on remote master branch
 
 
 	}
